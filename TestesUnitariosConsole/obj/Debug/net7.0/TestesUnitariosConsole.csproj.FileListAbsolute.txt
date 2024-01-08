@@ -1,0 +1,15 @@
+/workspaces/TestesUnitarios/TestesUnitariosConsole/bin/Debug/net7.0/TestesUnitariosConsole
+/workspaces/TestesUnitarios/TestesUnitariosConsole/bin/Debug/net7.0/TestesUnitariosConsole.deps.json
+/workspaces/TestesUnitarios/TestesUnitariosConsole/bin/Debug/net7.0/TestesUnitariosConsole.runtimeconfig.json
+/workspaces/TestesUnitarios/TestesUnitariosConsole/bin/Debug/net7.0/TestesUnitariosConsole.dll
+/workspaces/TestesUnitarios/TestesUnitariosConsole/bin/Debug/net7.0/TestesUnitariosConsole.pdb
+/workspaces/TestesUnitarios/TestesUnitariosConsole/obj/Debug/net7.0/TestesUnitariosConsole.csproj.AssemblyReference.cache
+/workspaces/TestesUnitarios/TestesUnitariosConsole/obj/Debug/net7.0/TestesUnitariosConsole.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TestesUnitarios/TestesUnitariosConsole/obj/Debug/net7.0/TestesUnitariosConsole.AssemblyInfoInputs.cache
+/workspaces/TestesUnitarios/TestesUnitariosConsole/obj/Debug/net7.0/TestesUnitariosConsole.AssemblyInfo.cs
+/workspaces/TestesUnitarios/TestesUnitariosConsole/obj/Debug/net7.0/TestesUnitariosConsole.csproj.CoreCompileInputs.cache
+/workspaces/TestesUnitarios/TestesUnitariosConsole/obj/Debug/net7.0/TestesUnitariosConsole.dll
+/workspaces/TestesUnitarios/TestesUnitariosConsole/obj/Debug/net7.0/refint/TestesUnitariosConsole.dll
+/workspaces/TestesUnitarios/TestesUnitariosConsole/obj/Debug/net7.0/TestesUnitariosConsole.pdb
+/workspaces/TestesUnitarios/TestesUnitariosConsole/obj/Debug/net7.0/TestesUnitariosConsole.genruntimeconfig.cache
+/workspaces/TestesUnitarios/TestesUnitariosConsole/obj/Debug/net7.0/ref/TestesUnitariosConsole.dll
